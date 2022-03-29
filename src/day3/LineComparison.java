@@ -6,8 +6,7 @@ public class LineComparison {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//LineComparsion line1 = new LineComparsion(5, 3, 3, 4);
-		//LineComparsion line2 = new LineComparsion(8, 3, 3, 4);
+		
 		Scanner in = new Scanner(System.in);
 		System.out.println("Enter x1 nd x2:");
 		int x1 = in.nextInt();
